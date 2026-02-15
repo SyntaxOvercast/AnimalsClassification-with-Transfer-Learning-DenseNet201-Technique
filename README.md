@@ -57,12 +57,3 @@ Model menunjukkan performa yang sangat baik dengan tingkat *overfitting* yang mi
 * **Testing Loss:** 0.4741 | **Accuracy:** 96.96%
 
 ---
-
-## 🚀 Cara Penggunaan
-*(Tambahkan instruksi cara menjalankan kode/notebook di sini)*
-
-```bash
-git clone [https://github.com/username/repo-name.git](https://github.com/username/repo-name.git)
-cd repo-name
-pip install -r requirements.txt
-# Jalankan notebook atau script utama
